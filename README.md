@@ -4,6 +4,7 @@ The Fintech Portfolio Tracker is a full-stack application designed to help users
 
 ## Prerequisites
 
+
 Before you begin, ensure you have installed all of the following prerequisites on your development machine:
 
 - Docker and Docker Compose
